@@ -41,3 +41,9 @@ Your submission will be evaluated based on:
 - **Repository Access:** Keep your repository private to avoid visibility by other candidates. Add the following email addresses as collaborators to the repository, these are our internal emails and will be evaluating your assessment:
   - kandaramit5@gmail.com
 - Finally, please fill out the google form that you received via email to submit the assessment for review.
+
+
+## Submission by Soumbrata Sinha
+- live link : https://analytics-dashboard-assessment-rosy-iota.vercel.app/
+- I have used NEXT.js and chart.js for optimised handle and presentation of data.
+- I have added multiple charts to represents every specific details of the given dataset.
